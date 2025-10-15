@@ -1,2 +1,2 @@
 # 404archive
-https://404angels.github.io/404archive
+https://404collective.github.io/404archive/
